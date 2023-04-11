@@ -14,3 +14,6 @@ Site para instalar o git: https://git-scm.com/
 
 ## Adicionando o Readme do projeto
 
+## Evoluindo o projeto para outros dispositivos
+
+
